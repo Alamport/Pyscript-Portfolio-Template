@@ -1,6 +1,9 @@
 # Pyscript-Portfolio-Template
 https://pyscript.com/@alamport/student-template/
 
+## Github Site
+https://alamport.github.io/Pyscript-Portfolio-Template/
+
 Welcome to creating your personal website that will showcase the various
 projects that you will make throughout your two-week session. 
 
